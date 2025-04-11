@@ -7,6 +7,6 @@ programa {
     leia(n2)
     
     soma = n1 + n2
-    
+    escreva("O resultado é: ", soma)    
   }
 }
